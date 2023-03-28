@@ -2,4 +2,5 @@
 p:nth-child(2n+1){
 	color:  #00f;
 background-color: #eee;
+	font-size: 20px;
 }
